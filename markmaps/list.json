@@ -1,0 +1,6 @@
+{
+    "svgs": [
+        { "name": "Psicologia", "file": "markmaps/Psicologia/HTML/Corrientes-psicologia.html" },
+        { "name": "Psicologia complemento", "file": "markmaps/Psicologia/HTML/Psicologia-complemento.html" }
+    ]
+}

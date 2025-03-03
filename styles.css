@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#svg-iframe {
+    margin-top: 20px;
+    width: 100%;
+    height: 80vh;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}

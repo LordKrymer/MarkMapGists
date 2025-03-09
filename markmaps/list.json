@@ -2,6 +2,8 @@
     "svgs": [
         { "name": "Psicologia - Base", "file": "markmaps/Psicologia/HTML/Corrientes-psicologia.html" },
         { "name": "Psicologia - Datos complementarios", "file": "markmaps/Psicologia/HTML/Psicologia-complemento.html" },
-        { "name": "Neurobiologia - Caminos copamina", "file": "markmaps/Neurobiologia/HTML/Caminos-dopamina.html" }
+        { "name": "Neurobiologia - Caminos dopamina", "file": "markmaps/Neurobiologia/HTML/Caminos-dopamina.html" },
+        { "name": "Derecho - Derecho penal", "file": "markmaps/Derecho/HTML/Derecho penal argentino.html" }
+
     ]
 }
